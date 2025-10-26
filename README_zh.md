@@ -1,5 +1,3 @@
-
-```markdown
 # SEARAG: 基于语义熵的自适应检索多跳问答 🔍🔄
 
 [English](README.md) | **中文**
