@@ -18,7 +18,7 @@
 
 **标题：** SEARAG: Semantic Entropy-Guided Adaptive Retrieval for Multi-hop Question Answering
 
-**作者：** 俞定甫, 林钦鸿, 杨忠亮*, 周琳娜  
+**作者：** 俞定甫, 林钦鸿, 杨忠良*, 周琳娜  
 **单位：** 北京邮电大学网络空间安全学院  
 **会议：** ICASSP 2026 (评审中)
 
