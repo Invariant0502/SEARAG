@@ -6,7 +6,7 @@
 >
 > This repository contains the code for our paper submitted to **ICASSP 2026**.
 >
-> In accordance with the **single-blind review policy**, the full code implementation will be made publicly available **immediately upon acceptance** of the paper.
+> The full code implementation will be made publicly available **immediately upon acceptance** of the paper.
 >
 > **We are committed to open science and will release our code without fail!** ✅
 
