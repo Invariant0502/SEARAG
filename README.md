@@ -51,7 +51,7 @@ SEARAG outperforms existing adaptive RAG methods across **five multi-hop QA data
 ## 🛠️ Requirements
 
 *(To be detailed upon release)*
-- Python ≥ 3.8
+- Python ≥ 3.10
 - PyTorch
 - Transformers
 - Standard NLP libraries
